@@ -26,7 +26,17 @@ The following steps are **optional** and only necessary if you want to extensive
 ### 4. Fork the Repository (Optional)
 Fork the public `iot-security-lab` repository on GitHub to your account.
 
-### 5. Open the Repository in Google Colab (Optional)
+> **Note:** Forking is particularly useful if you want to **persist your changes** to the code. This allows you to save your modifications permanently in your own repository.
+
+### 5. Modify and Commit Your Changes (Optional)
+1. Clone your forked repository to your local machine using an IDE (e.g., Visual Studio Code)
+2. Make the desired modifications to the code
+3. Commit your changes to your forked repository
+4. Push the changes to GitHub
+
+This ensures your modifications are saved and version-controlled in your own repository.
+
+### 6. Open the Repository in Google Colab (Optional)
 1. Go to [Google Colab](https://colab.research.google.com)
 2. Sign in with the same Google account you used for GitHub
 3. In the Colab interface, click on **File** → **Open notebook**
