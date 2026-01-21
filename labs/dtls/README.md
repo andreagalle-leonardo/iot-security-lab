@@ -31,4 +31,4 @@ In this notebook, we use the [**Fernet** library](https://cryptography.io/en/lat
 
 Click the button below to run the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([ecdh_simulation.ipynb](<https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/ecdh_simulation.ipynb>))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/ecdh_simulation.ipynb)
