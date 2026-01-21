@@ -15,9 +15,9 @@ Each topic below corresponds to a dedicated folder containing the main Jupyter N
 ## List of Exercises
 
 ### 1. DTLS (Datagram Transport Layer Security)
-Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead.
+Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead. This exercise focuses on the ECDH (Elliptic Curve Diffie-Hellman) key exchange within the DTLS protocol.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/dtls.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/ecdh_simulation.ipynb)
 
 ### 2. Encryption
 Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
@@ -29,12 +29,7 @@ Learn [about cryptographic hash functions](./hash/), data integrity, and how to 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/hash/hash.ipynb)
 
-### 4. OTA (Over-The-Air) Updates
-Simulate a [secure firmware update process](./ota/), ensuring that the code deployed to a device is authentic and uncompromised.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/ota/ota.ipynb)
-
-### 5. Digital Signatures
-Practice [implementing digital signatures](./signature/) to verify the authenticity and origin of IoT messages and software.
+### 4. Digital Signatures
+Practice [implementing digital signatures](./signature/) to verify the authenticity and origin of IoT messages and software. This typically involves ECDSA (Elliptic Curve Digital Signature Algorithm).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/signature/signature.ipynb)
