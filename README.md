@@ -19,16 +19,22 @@ Try running Python code from this repository using Google Colab by clicking the 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/setup/helloworld.ipynb)
 
+## Lab Sessions
+
+### 4. Jump to the Labs
+
+[Click here](labs/README.md) to go to a series of exercises prepared for you.
+
 ## Optional Steps for Advanced Users
 
 The following steps are **optional** and only necessary if you want to extensively modify the notebooks in this repository. Google Colab allows you to edit notebooks in its development environment before running them from the same environment.
 
-### 4. Fork the Repository (Optional)
+### 5. Fork the Repository (Optional)
 Fork the public `iot-security-lab` repository on GitHub to your account.
 
 > **Note:** Forking is particularly useful if you want to **persist your changes** to the code. This allows you to save your modifications permanently in your own repository.
 
-### 5. Modify and Commit Your Changes (Optional)
+### 6. Modify and Commit Your Changes (Optional)
 1. Clone your forked repository to your local machine using an IDE (e.g., Visual Studio Code)
 2. Make the desired modifications to the code
 3. Commit your changes to your forked repository
@@ -36,7 +42,7 @@ Fork the public `iot-security-lab` repository on GitHub to your account.
 
 This ensures your modifications are saved and version-controlled in your own repository.
 
-### 6. Open the Repository in Google Colab (Optional)
+### 7. Open the Repository in Google Colab (Optional)
 1. Go to [Google Colab](https://colab.research.google.com)
 2. Sign in with the same Google account you used for GitHub
 3. In the Colab interface, click on **File** → **Open notebook**
