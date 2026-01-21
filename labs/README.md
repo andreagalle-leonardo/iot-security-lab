@@ -20,7 +20,7 @@ Explore [how to secure UDP-based communications](./dtls/), which are common in I
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/dtls.ipynb)
 
 ### 2. Encryption
-Understand the [fundamentals of  AES 128 symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
+Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/encryption.ipynb)
 
