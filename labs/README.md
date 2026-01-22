@@ -25,9 +25,9 @@ Understand the [fundamentals of symmetric encryption](./encryption/) algorithms 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/aes_simulation.ipynb)
 
 ### 3. Hash Functions
-Learn [about cryptographic hash functions](./hash/), data integrity, and how to verify that messages have not been tampered with.
+Learn [about cryptographic hash functions](./hash/), data integrity, and how to verify that messages have not been tampered with. This exercise utilizes industry standards like SHA-256 and SHA-3 to visualize the avalanche effect.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/hash/hash.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/hash/hash_simulation.ipynb)
 
 ### 4. Digital Signatures
 Practice [implementing digital signatures](./signature/) to verify the authenticity and origin of IoT messages and software. This typically involves ECDSA (Elliptic Curve Digital Signature Algorithm).
