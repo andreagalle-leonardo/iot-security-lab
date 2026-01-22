@@ -25,6 +25,8 @@ Try running Python code from this repository using Google Colab by clicking the 
 
 [Click here](labs/README.md) to go to a series of exercises prepared for you.
 
+<img width="1077" height="533" alt="iot-security-lab" src="https://github.com/user-attachments/assets/af22efaf-75e6-41b4-9cd2-e8d310ff6afc" />
+
 ## Optional Steps for Advanced Users
 
 The following steps are **optional** and only necessary if you want to extensively modify the notebooks in this repository. Google Colab allows you to edit notebooks in its development environment before running them from the same environment.
