@@ -15,12 +15,12 @@ Each topic below corresponds to a dedicated folder containing the main Jupyter N
 ## List of Exercises
 
 ### 1. DTLS (Datagram Transport Layer Security)
-Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead. This exercise focuses on the ECDH (Elliptic Curve Diffie-Hellman) key exchange within the DTLS protocol.
+Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead. This exercise focuses on the **ECDH (Elliptic Curve Diffie-Hellman) key exchange** within the DTLS protocol.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/ecdh_simulation.ipynb)
 
 ### 2. Encryption
-Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
+Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality. This exercise demonstrates how **AES-128 in CTR (Counter) mode** is implemented to secure IoT data streams.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/aes_simulation.ipynb)
 
