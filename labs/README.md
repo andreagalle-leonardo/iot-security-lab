@@ -15,19 +15,19 @@ Each topic below corresponds to a dedicated folder containing the main Jupyter N
 ## List of Exercises
 
 ### 1. DTLS (Datagram Transport Layer Security)
-Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead. This exercise focuses on the ECDH (Elliptic Curve Diffie-Hellman) key exchange within the DTLS protocol.
+Explore [how to secure UDP-based communications](./dtls/), which are common in IoT environments due to their low overhead. This exercise focuses on the **ECDH (Elliptic Curve Diffie-Hellman) key exchange** within the DTLS protocol.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/dtls/ecdh_simulation.ipynb)
 
 ### 2. Encryption
-Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
+Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality. This exercise demonstrates how **AES-128 in CTR (Counter) mode** is implemented to secure IoT data streams.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/encryption.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/aes_simulation.ipynb)
 
 ### 3. Hash Functions
-Learn [about cryptographic hash functions](./hash/), data integrity, and how to verify that messages have not been tampered with.
+Learn [about cryptographic hash functions](./hash/), data integrity, and how to verify that messages have not been tampered with. This exercise utilizes industry standards like SHA-256 and SHA-3 to visualize the avalanche effect.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/hash/hash.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/hash/hash_simulation.ipynb)
 
 ### 4. Digital Signatures
 Practice [implementing digital signatures](./signature/) to verify the authenticity and origin of IoT messages and software. This typically involves ECDSA (Elliptic Curve Digital Signature Algorithm).
