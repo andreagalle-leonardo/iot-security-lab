@@ -32,4 +32,4 @@ Learn [about cryptographic hash functions](./hash/), data integrity, and how to 
 ### 4. Digital Signatures
 Practice [implementing digital signatures](./signature/) to verify the authenticity and origin of IoT messages and software. This typically involves ECDSA (Elliptic Curve Digital Signature Algorithm).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/signature/signature.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/signature/ecdsa_simulation.ipynb)
