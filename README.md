@@ -17,7 +17,7 @@ Sign up for GitHub using your Google account at [github.com](https://github.com)
 ### 3. Run Python Code with Google Colab
 Try running Python code from this repository using Google Colab by clicking the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/setup/helloworld.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/helloworld.ipynb)
 
 ## Lab Sessions
 
