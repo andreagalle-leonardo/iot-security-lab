@@ -22,7 +22,7 @@ Explore [how to secure UDP-based communications](./dtls/), which are common in I
 ### 2. Encryption
 Understand the [fundamentals of symmetric encryption](./encryption/) algorithms used to protect data confidentiality.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/encryption.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreagalle-leonardo/iot-security-lab/blob/main/labs/encryption/aes_simulation.ipynb)
 
 ### 3. Hash Functions
 Learn [about cryptographic hash functions](./hash/), data integrity, and how to verify that messages have not been tampered with.
